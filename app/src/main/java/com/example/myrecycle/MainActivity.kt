@@ -107,6 +107,7 @@ class MainActivity : AppCompatActivity() {
             Language("JavaScript" , "Exp : 6 years"),
             Language("PHP" , "Exp : 1 years"),
             Language("CPP" , "Exp : 8 years"),
+            Language("Koppannu" , "Kopppee"),
         )
     }
 
